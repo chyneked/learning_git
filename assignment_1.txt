@@ -1,4 +1,4 @@
-⦁	- Create script named binarylog.sh
+⦁	- I am making a change from Canada 
 ⦁	- start script with #!/bin/s //
 ⦁	- Comment with scripts purpose
 ⦁	Comment the authors name and student number
