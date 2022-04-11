@@ -1,0 +1,10 @@
+⦁	- Create script named binarylog.sh  //
+⦁	- start script with #!/bin/s //
+⦁	- Comment with scripts purpose
+⦁	Comment the authors name and student number
+⦁	Date last modified
+⦁	take directory as an argument
+⦁	Check of the argument is supplied if not display error and display error
+⦁	Check that it is readable if not display error and exit
+⦁	Check if it is writable if not display error and exit
+⦁	Check it is executable if not display error and exit
