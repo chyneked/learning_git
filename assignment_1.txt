@@ -7,4 +7,4 @@
 ⦁	Check of the argument is supplied if not display error and display error
 ⦁	Check that it is readable if not display error and exit
 ⦁	Check if it is writable if not display error and exit
-⦁	Check it is executable if not display error and exit
+⦁	Validate that folder is executable
