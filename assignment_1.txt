@@ -1,4 +1,4 @@
-⦁	- Create script named binarylog.sh  //
+⦁	- Create script named binarylog.sh
 ⦁	- start script with #!/bin/s //
 ⦁	- Comment with scripts purpose
 ⦁	Comment the authors name and student number
